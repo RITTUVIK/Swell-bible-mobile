@@ -1,4 +1,4 @@
-# SWELL Bible Mobile
+# SWELL Bible
 
 Minimal Android Bible-reading app with Solana-based SWELL token donations.
 
